@@ -30,7 +30,7 @@ class Config {
     // GENERAL SETTINGS
     // ------------------------------------------------------------------------
 
-    const BASE_URL      = 'http://url-to-easyappointments-directory';
+    const BASE_URL      = 'http://https://ucc-schedule.herokuapp.com/';
     const LANGUAGE      = 'english';
     const DEBUG_MODE    = FALSE;
 
@@ -38,10 +38,10 @@ class Config {
     // DATABASE SETTINGS
     // ------------------------------------------------------------------------
 
-    const DB_HOST       = '';
-    const DB_NAME       = '';
-    const DB_USERNAME   = '';
-    const DB_PASSWORD   = '';
+    const DB_HOST       = 'd1kb8x1fu8rhcnej.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
+    const DB_NAME       = 'ovuny4kgrabgyux5';
+    const DB_USERNAME   = 'xv07u2b7fbz0cuau';
+    const DB_PASSWORD   = 'ocgxopxxv2aub2vt';
 
     // ------------------------------------------------------------------------
     // GOOGLE CALENDAR SYNC
