@@ -30,7 +30,7 @@ class Config {
     // GENERAL SETTINGS
     // ------------------------------------------------------------------------
 
-    const BASE_URL      = 'http://https://ucc-schedule.herokuapp.com/';
+    const BASE_URL      = 'http://https://ucc-schedule.herokuapp.com/src';
     const LANGUAGE      = 'english';
     const DEBUG_MODE    = FALSE;
 
